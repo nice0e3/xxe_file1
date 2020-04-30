@@ -1,0 +1,3 @@
+c:/windows/win.ini
+c:/windows/win.ini
+c:/1.txt
